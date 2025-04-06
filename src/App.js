@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            EKS DEMO Blog
+            Welcome to Unicorn Rental!
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
