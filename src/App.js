@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            Welcome to Unicorn Rental!
+            Welcome to Llama Rental!
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
